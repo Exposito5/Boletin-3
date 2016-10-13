@@ -19,6 +19,7 @@ public class Ejerciciosolapamiento {
     public static void main(String[] args) {
         int x;
         x = Integer.parseInt(JOptionPane.showInputDialog("Introducir valor de x"));
+        //x+3
        
         // TODO code application logic here
     }
