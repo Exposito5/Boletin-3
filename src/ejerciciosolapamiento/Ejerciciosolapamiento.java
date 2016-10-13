@@ -21,7 +21,7 @@ public class Ejerciciosolapamiento {
         x = Integer.parseInt(JOptionPane.showInputDialog("Introducir valor de x"));
         //x+3
         //modificacion
-       
+       //mmmmasdasfdmaskfmas salam malecom
         // TODO code application logic here
     }
     
